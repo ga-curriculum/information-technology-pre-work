@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "Information Technology Bootcamp Pre-Work",
-    "name": "information-technology-bootcamp-pre-work",
+    "friendlyName": "Information Technology Pre-Work",
+    "name": "information-technology-pre-work",
     "type": "Lesson",
     "about": "",
     "starterCode": "",
@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Welcome to General Assembly",
-          "dirName": "welcome-to-general-assembly",
+          "friendlyName": "Welcome to General Assembly and ITB",
+          "dirName": "welcome-to-general-assembly-and-itb",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -123,14 +123,133 @@
       "isActivityTimeShown": true
     },
     {
+      "name": "its",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Welcome to General Assembly and ITS",
+          "dirName": "welcome-to-general-assembly-and-its",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Set for Success",
+          "dirName": "set-for-success",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Learning Mindset",
+          "dirName": "learning-mindset",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Fearless Feedback Culture",
+          "dirName": "fearless-feedback-culture",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "The Life of an IT Professional",
+          "dirName": "the-life-of-an-it-professional",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Problem Solving",
+          "dirName": "problem-solving",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Clear and Confident Communication",
+          "dirName": "clear-and-confident-communication",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Wrap-Up",
+          "dirName": "wrap-up",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": false,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": false,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
       "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Welcome to General Assembly",
-          "dirName": "welcome-to-general-assembly",
+          "friendlyName": "Welcome to General Assembly and ITB",
+          "dirName": "welcome-to-general-assembly-and-itb",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Welcome to General Assembly and ITS",
+          "dirName": "welcome-to-general-assembly-and-its",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -151,6 +270,16 @@
         {
           "friendlyName": "Bootcamp Mindset",
           "dirName": "bootcamp-mindset",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Learning Mindset",
+          "dirName": "learning-mindset",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

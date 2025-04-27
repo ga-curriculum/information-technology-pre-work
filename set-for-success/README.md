@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">Information Technology Bootcamp Pre-Work</span>
+  <span class="headline">Information Technology Pre-Work</span>
   <span class="subhead">Set for Success</span>
 </h1>
 
 ## What can I do to succeed?
 
-You should be feeling motivated after that reflection exercise. Use that energy to commit to these strategies that will help you succeed in ITB:
+You should be feeling motivated after that reflection exercise. Use that energy to commit to these strategies that will help you succeed in your course.
 
 ### Complete the rest of this pre-work
 
@@ -43,7 +43,7 @@ Keep tabs on your mental health as well. Ensure you're making time for activitie
 
 ### Keep a steady pace
 
-The bootcamp is a marathon, not a sprint. Maintaining a steady pace throughout the course is essential to avoid burnout. Don't wait until the last minute to complete assignments or study for exams. Break your work into manageable chunks and work on it consistently.
+Learning is a marathon, not a sprint. Maintaining a steady pace throughout the course is essential to avoid burnout. Don't wait until the last minute to complete assignments or study for exams. Break your work into manageable chunks and work on it consistently.
 
 It can be hard to get back on track if you start to put things off.
 

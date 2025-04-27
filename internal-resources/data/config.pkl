@@ -12,23 +12,38 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "Information Technology Bootcamp Pre-Work"
+  friendlyName = "Information Technology Pre-Work"
   // This must match the repo name as it appears on GitHub exactly
-  name = "information-technology-bootcamp-pre-work"
+  name = "information-technology-pre-work"
   type = "Lesson"
 }
 
 courses {
   new {
-    // Do not remove this fallback course!
     name = "itb"
     isHeaderModuleNavShown = false
     isFooterLessonNavShown = false
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.welcomeToGeneralAssembly
+      mls.welcomeToGeneralAssemblyAndItb
       mls.setForSuccess
       mls.bootcampMindset
+      mls.fearlessFeedbackCulture
+      mls.theLifeOfAnItProfessional
+      mls.problemSolving
+      mls.clearAndConfidentCommunication
+      mls.wrapUp
+    }
+  }
+  new {
+    name = "its"
+    isHeaderModuleNavShown = false
+    isFooterLessonNavShown = false
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.welcomeToGeneralAssemblyAndIts
+      mls.setForSuccess
+      mls.learningMindset
       mls.fearlessFeedbackCulture
       mls.theLifeOfAnItProfessional
       mls.problemSolving
@@ -43,9 +58,11 @@ courses {
     isFooterLessonNavShown = false
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.welcomeToGeneralAssembly
+      mls.welcomeToGeneralAssemblyAndItb
+      mls.welcomeToGeneralAssemblyAndIts
       mls.setForSuccess
       mls.bootcampMindset
+      mls.learningMindset
       mls.fearlessFeedbackCulture
       mls.theLifeOfAnItProfessional
       mls.problemSolving

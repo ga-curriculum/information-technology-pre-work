@@ -2,9 +2,16 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-welcomeToGeneralAssembly = new Template.Microlesson {
-  friendlyName = "Welcome to General Assembly"
-  dirName = "welcome-to-general-assembly"
+welcomeToGeneralAssemblyAndItb = new Template.Microlesson {
+  friendlyName = "Welcome to General Assembly and ITB"
+  dirName = "welcome-to-general-assembly-and-itb"
+  type = "Content"
+  videoUrl = ""
+}
+
+welcomeToGeneralAssemblyAndIts = new Template.Microlesson {
+  friendlyName = "Welcome to General Assembly and ITS"
+  dirName = "welcome-to-general-assembly-and-its"
   type = "Content"
   videoUrl = ""
 }
@@ -19,6 +26,13 @@ setForSuccess = new Template.Microlesson {
 bootcampMindset = new Template.Microlesson {
   friendlyName = "Bootcamp Mindset"
   dirName = "bootcamp-mindset"
+  type = "Content"
+  videoUrl = ""
+}
+
+learningMindset = new Template.Microlesson {
+  friendlyName = "Learning Mindset"
+  dirName = "learning-mindset"
   type = "Content"
   videoUrl = ""
 }

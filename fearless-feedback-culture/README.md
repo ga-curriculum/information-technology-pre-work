@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Information Technology Bootcamp Pre-Work</span>
+  <span class="headline">Information Technology Pre-Work</span>
   <span class="subhead">Fearless Feedback Culture</span>
 </h1>
 
@@ -9,9 +9,9 @@ At General Assembly, we believe timely *constructive feedback* delivered with em
 
 ## The value of fearless feedback
 
-Without constructive feedback, it isn't easy to know how you're doing. We know the stakes are high in a bootcamp, and it's vital that you're able to assess your progress and make quick adjustments.
+Without constructive feedback, it isn't easy to know how you're doing. We know the stakes can be high in a course, and it's vital that you're able to assess your progress and make quick adjustments.
 
-A culture of fearless feedback promotes continuous improvement, fosters collaboration, builds trust, and accelerates learning. It's a key component of a growth mindset, which is essential for success in a bootcamp environment.
+A culture of fearless feedback promotes continuous improvement, fosters collaboration, builds trust, and accelerates learning. It's a key component of a growth mindset, which is essential for success in a learning environment.
 
 Promote a feedback culture by seeking feedback from your peers and instructors when appropriate. Be open to receiving feedback, and use it to reflect on your work and improve.
 

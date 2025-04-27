@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">Information Technology Bootcamp Pre-Work</span>
+  <span class="headline">Information Technology Pre-Work</span>
   <span class="subhead">The Life of an IT Professional</span>
 </h1>
 
