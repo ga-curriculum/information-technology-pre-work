@@ -21,8 +21,9 @@ This module contains the pre-work lessons for the Information Technology discipl
 | [The Life of an IT Professional](../the-life-of-an-it-professional/README.md)            |      20 min | Learn about the daily life, possible career path, and responsibilities of an IT professional. |
 | [Problem Solving](../problem-solving/README.md)                                          |      20 min | Understand systematic problem solving.                                                        |
 | [Clear and Confident Communication](../clear-and-confident-communication/README.md)      |      10 min | Learn how to start communicating effectively in a professional setting.                       |
+| [IT Basic Terms](../it-basic-terms/README.md)                                            | 1 hr 30 min | Research basic IT terminology and topics.                                                     |
 | [Wrap-Up](../wrap-up/README.md)                                                          |       5 min | Celebrate completing the pre-work.                                                            |
-| **Total content**                                                                        | 2 hr 35 min |                                                                                               |
+| **Total content**                                                                        |  4 hr 5 min |                                                                                               |
 
 ## References
 

@@ -65,6 +65,13 @@ clearAndConfidentCommunication = new Template.Microlesson {
   videoUrl = ""
 }
 
+itBasicTerms = new Template.Microlesson {
+  friendlyName = "IT Basic Terms"
+  dirName = "it-basic-terms"
+  type = "Content"
+  videoUrl = ""
+}
+
 wrapUp = new Template.Microlesson {
   friendlyName = "Wrap-Up"
   dirName = "wrap-up"
